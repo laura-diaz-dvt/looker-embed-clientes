@@ -25,7 +25,7 @@ const dashboards = {
     //   title: "Bienvenida/o al Portal Mobilize",
       filters: { Status: "Status",  Price: "Sale Price" }
     },
-    357: { 
+    371: { 
     //   title: "Ventas",
       filters: { Status: "Status", Price: "Sale Price" }
     }
